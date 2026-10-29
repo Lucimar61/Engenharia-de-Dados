@@ -1,2 +1,6 @@
 fastapi
 uvicorn
+requests
+pandas
+google-cloud-bigquery
+pyarrow
